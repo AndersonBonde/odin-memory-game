@@ -1,0 +1,9 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 1rem;
+  display: flex;
+  min-height: calc(100vh - 2rem);
+}
